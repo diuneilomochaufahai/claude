@@ -231,7 +231,3 @@ Connie shows three things. Technology can change how long a journey takes. Good 
 If we could go back to that era, I'd invite you to walk up the stairs and get on board. Thank you.
 
 (Only say "thank you" on this slide.)
-
-## 28. Q&A backup
-
-Backup slide for questions. Four things people mix up: the Boeing 307 was pressurized first; the 35 planes were a contract condition, not actual deliveries before the war; 123 feet is the full wingspan, not one wing; and 150 million euros is a project cost, not what the plane is worth. Also: "first-mover advantage" is my way of telling the story, not a legal claim about insider dealing. (References: sfo, lm, scfa, cost.)
